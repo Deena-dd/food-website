@@ -1,0 +1,100 @@
+.heading,.title{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+*{
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.section-one{
+    display: inline-block;
+    margin:20px;
+    border: solid black 2px;
+    text-align: center;
+}
+
+.section-two{
+    display: inline-block;
+    margin:20px;
+    border: solid black 2px;
+    text-align: center;
+}
+
+.section-three{
+    display: inline-block;
+    margin:20px;
+    border: solid black 2px;
+    text-align: center;
+}   
+.section-four{
+    display: inline-block;
+    margin:20px;
+    border: solid black 2px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    background-color: aquamarine;
+}
+.section-one__lineprice,.section-two__lineprice,.section-three__lineprice,.section-four__lineprice{
+    text-decoration: line-through;
+    display: inline-block;
+}
+.section-one__price,.section-two__price,.section-three__price,.section-four__price{
+    display: inline-block;
+}
+.section-one__button:hover,.section-two__button:hover,.section-three__button:hover,.section-four__button:hover{
+    background-color: black;
+    color: white;
+}
+.section-five{
+    text-align:center;
+    background-color: black;
+    color: white;
+    padding-left:600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-five__contactus{
+    padding-bottom: 30px;
+    font-size: 25px;
+    padding-right: 50px;
+}
+.section-five__button{
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: aquamarine;
+
+}
+.section-five__button:hover{
+    background-color: black;
+    color:aquamarine;
+}
+.section-one__button{
+    text-decoration: none;
+    border: solid black 2px;
+    background-color: whitesmoke;
+    color: black;
+}
+.section-two__button{
+    text-decoration: none;
+    border: solid black 2px;
+    background-color: whitesmoke;
+    color: black;
+}
+.section-three__button{
+    text-decoration: none;
+    border: solid black 2px;
+    background-color: whitesmoke;
+    color: black;
+}
+.section-four__button{
+    text-decoration: none;
+    border: solid black 2px;
+    background-color: whitesmoke;
+    color: black;
+}
